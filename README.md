@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm  Sandhra Shibu</h1>
-<h3 align="center">A noob developer</h3>
+<h3 align="center">A developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdesign4alll&label=Profile%20views&color=0e75b6&style=flat" alt="webdesign4alll" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ****
 
-- 💬 Ask me about **gsap, bootstrap, python, javascript, css**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **sandhrashibu2002@gmail.com**
 
