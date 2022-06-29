@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **sandhrashibu2002@gmail.com**
 
-- ⚡ Fun fact **I'm not lazy,
- I'm highly motivated to do nothing 😁**
+- ⚡ Fun fact **I'm not lazy, I'm highly motivated to do nothing 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
