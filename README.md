@@ -1,18 +1,18 @@
 
-<h1 align="center">Hi 👋, I'm  Sandhra Shibu</h1>
-<h3 align="center">A student</h3>
+<h1 align="center">Hey 👋, I'm  Sandhra Shibu</h1>
+<h3 align="center">🎓 An engineering student from TKMCE KOLLAM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SandhraShibu&label=Profile%20views&color=0e75b6&style=flat" alt="Sandhra" /> </p>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **projects yet to be discovered 🧐**
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning **basics of everything,yeaah I'm a newbie 👶**
 
-- 💬 Ask me about ****
+- 💬 talk with me about **clouds n skies,space,stars and abt U :)**
 
 - 📫 How to reach me **sandhrashibu2002@gmail.com**
 
-- ⚡ Fun fact **I'm not lazy, I'm highly motivated to do nothing 😁**
+- ⚡ Fun fact **I'm not lazy, I'm highly motivated to do nothing most of the time 🤷‍♀️!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
