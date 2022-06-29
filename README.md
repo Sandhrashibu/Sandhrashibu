@@ -21,6 +21,7 @@
 <a href="https://www.instagram.com/sandhrashibu/" target="blank"><img align="center" src="https://cdn.freebiesupply.com/images/large/2x/instagram-icon-white-on-black-circle.png" alt="Sandhra" height="30" width="40" /></a>
 <a href="https://discord.com/users/Sandhra%20Shibu#5771" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspErpswcB-NyZPJwSbm0Q1Z6aYrgnVIeQMUE8Yw3KFris3kFskG__MaGmFl2qQ8L4RCU&usqp=CAU" alt="Sandhra" height="30" width="30" /></a>
 <a href="https://open.spotify.com/user/31zg5342uzpeeijj554cwx6mooiq?si=vNe3PrWCQTuXnY9gtxQt7g&utm_source=copy-link" target="blank"><img align="center" src="https://i0.wp.com/i.pinimg.com/originals/6e/2c/66/6e2c669da97f9eff52a7f6926cda064d.jpg" alt="Sandhra" height="30" width="30" /></a>
+<a href="https://twitter.com/SandhraShibu" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFIEhROfXgTP1s-EkF0dnRYGlyo7t7XJviQ&usqp=CAU" alt="Sandhra" height="30" width="30" /></a>
 </p>
 
 <h1 align="center">Hey ✌</h1>
