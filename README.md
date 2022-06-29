@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm  Sandhra Shibu</h1>
-<h3 align="center">A developer</h3>
+<h3 align="center">A student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SandhraShibu&label=Profile%20views&color=0e75b6&style=flat" alt="Sandhra" /> </p>
 
@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **sandhrashibu2002@gmail.com**
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact **I'm not lazy,
+ I'm highly motivated to do nothing 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
