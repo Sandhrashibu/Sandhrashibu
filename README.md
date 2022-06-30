@@ -1,6 +1,9 @@
 
 <h1 align="center">Hey 👋, I'm  Sandhra Shibu</h1>
 <h3 align="center">🎓 An engineering student from TKMCE KOLLAM</h3>
+<div align="center">
+  <img src="https://media2.giphy.com/media/8MyXEVgue4ucw/giphy.gif?cid=ecf05e47czhflfe7vt7f71sxaj55igep725kkmr90gjnrono&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SandhraShibu&label=Profile%20views&color=0e75b6&style=flat" alt="Sandhra" /> </p>
 
@@ -24,7 +27,7 @@
 <a href="https://twitter.com/SandhraShibu" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFIEhROfXgTP1s-EkF0dnRYGlyo7t7XJviQ&usqp=CAU" alt="Sandhra" height="30" width="30" /></a>
 </p>
 
-<h1 align="center">Hey ✌</h1>
+<h2 align="left">Hey ✌</h1>
 
 
 <h2 align="center"> Github Statistics 📈 </h2>
