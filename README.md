@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **projects yet to be discovered 🧐**
 
-- ✏ I’m currently learning **basics of everything,yeaah I'm a newbie 👶**
+- ✏ I’m currently learning **html,css**
 
 - 💬 talk with me about **clouds n skies,space,stars and abt U :)**
 
@@ -26,8 +26,6 @@
 <a href="https://open.spotify.com/user/31zg5342uzpeeijj554cwx6mooiq?si=vNe3PrWCQTuXnY9gtxQt7g&utm_source=copy-link" target="blank"><img align="center" src="https://i0.wp.com/i.pinimg.com/originals/6e/2c/66/6e2c669da97f9eff52a7f6926cda064d.jpg" alt="Sandhra" height="30" width="30" /></a>
 <a href="https://twitter.com/SandhraShibu" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFIEhROfXgTP1s-EkF0dnRYGlyo7t7XJviQ&usqp=CAU" alt="Sandhra" height="30" width="30" /></a>
 </p>
-
-<h2 align="left">Hey ✌</h1>
 
 
 <h2 align="center"> Github Statistics 📈 </h2>
