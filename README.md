@@ -25,6 +25,7 @@
 <a href="https://discord.com/users/Sandhra%20Shibu#5771" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspErpswcB-NyZPJwSbm0Q1Z6aYrgnVIeQMUE8Yw3KFris3kFskG__MaGmFl2qQ8L4RCU&usqp=CAU" alt="Sandhra" height="30" width="30" /></a>
 <a href="https://open.spotify.com/user/31zg5342uzpeeijj554cwx6mooiq?si=vNe3PrWCQTuXnY9gtxQt7g&utm_source=copy-link" target="blank"><img align="center" src="https://i0.wp.com/i.pinimg.com/originals/6e/2c/66/6e2c669da97f9eff52a7f6926cda064d.jpg" alt="Sandhra" height="30" width="30" /></a>
 <a href="https://twitter.com/SandhraShibu" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVFIEhROfXgTP1s-EkF0dnRYGlyo7t7XJviQ&usqp=CAU" alt="Sandhra" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/sandhra-shibu-7a8ab7243/" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2017/12/06/04/57/linkedin-3000959_960_720.png" alt="linkedin" height="30" width="30" /></a>
 </p>
 
 
